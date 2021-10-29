@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  color: #404040;
+  line-height: 1.4;
+  width: 90%;
+  margin: 1rem auto;
+}
+
+.title {
+  text-align: center;
+  letter-spacing: 3px;
+  text-decoration: underline;
+  text-transform: capitalize;
+  text-decoration-color: #606060;
+}
+
+.justify {
+  text-align: justify;
+  letter-spacing: 1px;
+}
+
+p {
+  text-indent: 1em;
+}
+
+ul {
+  list-style-type: lao;
+}
+
+ol {
+  list-style-type: lower-greek;
+}
