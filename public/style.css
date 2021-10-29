@@ -3,6 +3,11 @@ body {
   font-size: 18px;
   color: #404040;
   line-height: 1.4;
+  margin: 0;
+  padding: 0;
+}
+
+main {
   width: 90%;
   margin: 1rem auto;
 }
@@ -30,4 +35,8 @@ ul {
 
 ol {
   list-style-type: lower-greek;
+}
+
+.title-img {
+  width: 100%;
 }
