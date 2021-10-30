@@ -40,3 +40,7 @@ ol {
 .title-img {
   width: 100%;
 }
+
+.flexcol {
+  display:flex;
+}
